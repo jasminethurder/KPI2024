@@ -1,6 +1,6 @@
 # KPI2024
 
-![image1](imgs/figure3.png)
+![image0](imgs/figure3.png)
 
 MICCAI肾小球
 
