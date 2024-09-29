@@ -50,4 +50,4 @@ python task1_patch_infer.py  data/Task1/val  predict_patch
 
 ## visualization
 
-![image2](imgs/v1.pdf)
+![image20](imgs/v1.pdf)
